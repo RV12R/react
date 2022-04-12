@@ -1,0 +1,26 @@
+.calc{
+    width: 400px;
+    height: 489px;
+    background: yellowgreen;
+    margin-left: 450px;
+    border: dashed
+}
+#screen{
+    width: 366px;
+    height: 65px;
+    margin-left: 13px;
+    margin-top: 12px;
+    border: dashed;
+    pointer-events: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.butt{
+    margin-top: 15px;
+    width: 84px;
+    height: 83px;
+    margin-left: 11px;
+    background: darkorange;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
